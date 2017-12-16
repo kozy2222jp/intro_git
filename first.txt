@@ -1,5 +1,6 @@
-Gitの練習をしていきます。
-基本的なワークフローを勉強します。
-・git add
-・git commit
-<git rm>
+I'm practicing Git.
+Studying basic work flow.
+ git add
+ git commit
+ git rm
+ git status
