@@ -4,3 +4,4 @@ Studying basic work flow.
  git commit
  git rm
  git status
+ git diff
